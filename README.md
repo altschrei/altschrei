@@ -19,12 +19,11 @@
 
 </div>
 
-## FULL-STACK. NO CLUTTER.
+## ABOUT ME
 
-Full-stack developer focused on clean, usable web products —
-from internal business tools to personal apps. Currently studying
-Computer Science at UGM, going deeper into the systems side of
-what I already build by hand.
+Hi, I’m Raihan Ksatria Aframadhan, an 18-year-old software engineer based in Bekasi, Indonesia, with a strong passion for
+web development and digital technology. Currently, I’m pursuing a Computer Science degree at Universitas Gadjah Mada
+(UGM), where I actively build full-stack projects and continue refining my technical skills. 
 
 <br>
 
