@@ -52,7 +52,7 @@ web development and digital technology. Currently, I’m pursuing a Computer Sci
 <!--START_SECTION:activity-->
 ```
     Nov Dec Jan Feb Mar  Apr May  Jun Jul Aug  Sep Oct No
-    ·····················································
+    ····················································O
 Mon ·······-····································#········
     ·····················································
 Wed ·····················································
@@ -60,7 +60,7 @@ Wed ······································
 Fri ····-················································
     ···················································o·
 
-               17 contributions in the last year
+               21 contributions in the last year
 ```
 <!--END_SECTION:activity-->
 
